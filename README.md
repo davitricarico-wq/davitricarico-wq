@@ -32,7 +32,7 @@ A solução busca relacionar:
 * 📊 Modelos preditivos
 * 📈 Apoio à tomada de decisão no mercado
 
-**Acesso:** 
+**Acesso:** [https://github.com/davitricarico-wq/g01.git](https://github.com/davitricarico-wq/g03.git)
 
 **PS:** repositório do projeto original é localizado no GitLab, onde realizamos tarefas e adicionamos conteúdo diariamente. Como o projeto tem data de finalização em dia 07/10/2026, o repositório aqui do GitHub pode estar desatualizado.
 
@@ -51,7 +51,7 @@ O projeto utiliza conceitos de:
 * 🚨 Gestão de áreas de risco
 * 📦 Logística humanitária
 
-**Acesso:**  
+  **Acesso:** [https://github.com/davitricarico-wq/g03.git](https://github.com/davitricarico-wq/g03.git)
 
 ---
 
@@ -77,7 +77,7 @@ Principais aprendizados:
 
 💻 Desenvolvimento de aplicações interativas com JavaScript
 
-**Acesso:** 
+**Acesso:** [https://github.com/davitricarico-wq/g05.git](https://github.com/davitricarico-wq/g05.git)
 
 ---
 
