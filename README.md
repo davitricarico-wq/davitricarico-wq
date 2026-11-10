@@ -20,7 +20,7 @@ Atualmente, venho aprofundando meus conhecimentos em **desenvolvimento web, aná
 
 ## Projetos em destaque
 
-### C.R.I.S.I.S. — Unipar
+### 🛜 C.R.I.S.I.S. — Unipar
 
 Projeto desenvolvido em parceria com a **Unipar Carbocloro** para apoiar a evacuação segura da fábrica de Cubatão em situações de **emergência industrial**.
 
@@ -100,23 +100,26 @@ Principais aprendizados:
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,sql" />
+  <img src="https://skillicons.dev/icons?i=js,python,sql,cpp" />
 </p>
 
 ### Ferramentas & Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,html,css,arduino" />
 </p>
+
+**IoT:** ESP32 · HC-SR04 · RFID RC522 · Wokwi · Wi-Fi · MQTT
 
 ### Atualmente explorando
 
-* 🤖 Machine Learning
-* 📊 Data Science
-* 📈 Análise e Visualização de Dados
-* 🗄️ Bancos de Dados
-* 🌐 Desenvolvimento Web
-* 🧠 Modelos Preditivos
+* 🤖 Firmware em C++ para Arduino e ESP32
+* 📡 Prototipagem de dispositivos IoT
+* 📏 Sensores ultrassônicos HC-SR04
+* 🪪 Leitura RFID com RC522
+* 📶 Comunicação entre dispositivos com Wi-Fi e MQTT
+* 🌐 Integração de dispositivos IoT com aplicações web
+* 🚨 Tecnologia para apoio a emergências industriais
 
 ---
 
@@ -130,8 +133,8 @@ Principais aprendizados:
 
 <div align="center">
 
-<a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:davitricarico@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-<a href="SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="www.linkedin.com/in/davi-tricarico-248b1a3b1"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </div>
