@@ -20,6 +20,22 @@ Atualmente, venho aprofundando meus conhecimentos em **desenvolvimento web, aná
 
 ## Projetos em destaque
 
+### C.R.I.S.I.S. — Unipar
+
+Projeto desenvolvido em parceria com a **Unipar Carbocloro** para apoiar a evacuação segura da fábrica de Cubatão em situações de **emergência industrial**.
+
+A proposta reúne:
+
+* 🚪 Contagem anônima de entradas e saídas da planta
+* 🪪 Registro da última zona identificada por RFID
+* 🛟 Confirmação de chegada nos pontos de encontro por RFID
+* 📊 Dados para apoiar as equipes de SSMA e do CCO
+* 🚨 Apoio à resposta em emergências industriais
+
+**PS:** repositório do projeto original é localizado no GitLab, onde realizamos tarefas e adicionamos conteúdo diariamente. Como o projeto tem data de finalização em dia 18/12/2026, o repositório aqui do GitHub pode estar desatualizado.
+
+---
+
 ### 🌾 AgroVision — LDC
 
 Projeto desenvolvido em parceria com a **Louis Dreyfus Company (LDC)**, com foco na aplicação de modelos preditivos ao contexto de **Trading e Originação de Grãos e Subprodutos**.
@@ -33,8 +49,6 @@ A solução busca relacionar:
 * 📈 Apoio à tomada de decisão no mercado
 
 **Acesso:** [https://github.com/davitricarico-wq/g01.git](https://github.com/davitricarico-wq/g03.git)
-
-**PS:** repositório do projeto original é localizado no GitLab, onde realizamos tarefas e adicionamos conteúdo diariamente. Como o projeto tem data de finalização em dia 07/10/2026, o repositório aqui do GitHub pode estar desatualizado.
 
 ---
 
