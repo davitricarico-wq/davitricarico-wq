@@ -133,7 +133,7 @@ Principais aprendizados:
 
 <div align="center">
 
-<a href="mailto:davitricarico@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:davi.tricarico@sou.inteli.edu.br"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <a href="www.linkedin.com/in/davi-tricarico-248b1a3b1"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
